@@ -320,10 +320,10 @@ gene-BMS1P20
 gene-POM121L1P
 gene-GGTLC2
 gene-IGLC1
+gene-IGLC2
 gene-IGLC3
 gene-IGLC4
 gene-IGLC6
-gene-IGLC7
 gene-GSTT2
 gene-PRSS43P
 gene-LOC124900661
@@ -341,8 +341,8 @@ gene-TRI-AAT6-1
 gene-TRM-CAT4-3
 gene-HLA-DRB5
 gene-LOC101929692
-gene-UPK3BL2
 gene-POLR2J3-UPK3BL2
+gene-UPK3BL2
 gene-POLR2J3
 gene-PRSS3P1
 gene-PRSS2
