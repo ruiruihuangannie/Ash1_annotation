@@ -29,7 +29,6 @@ gene-MIR8071-1
 gene-MIR8071-2
 gene-TRAC
 gene-TRDC
-gene-NT5CP2
 gene-MIR10393
 gene-MIR1469
 gene-SNORD115-45
@@ -100,8 +99,6 @@ gene-TRA
 gene-OR4E1
 gene-LOC124903284
 gene-TRD
-gene-ACOT1
-gene-ELK2AP
 gene-LOC105378184
 gene-ATP6V1G1P1
 gene-HOMER2P2
@@ -179,7 +176,10 @@ gene-OR10G2
 gene-ARL6IP1P1
 gene-RPL4P1
 gene-LOC100419912
+gene-ACOT1
+gene-NT5CP2
 gene-IGHE
+gene-ELK2AP
 gene-IGHEP1
 gene-FAM30A
 gene-RPS8P1
@@ -320,10 +320,10 @@ gene-BMS1P20
 gene-POM121L1P
 gene-GGTLC2
 gene-IGLC1
-gene-IGLC2
 gene-IGLC3
 gene-IGLC4
 gene-IGLC6
+gene-IGLC7
 gene-GSTT2
 gene-PRSS43P
 gene-LOC124900661
@@ -337,8 +337,8 @@ gene-NAIP
 gene-CDH12P4
 gene-OR4F1P
 gene-CICP18
+gene-TRM-CAT4-1
 gene-TRI-AAT6-1
-gene-TRM-CAT4-3
 gene-HLA-DRB5
 gene-LOC101929692
 gene-POLR2J3-UPK3BL2
